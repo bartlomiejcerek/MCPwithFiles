@@ -1,6 +1,4 @@
 import base64
-import os
-import tempfile
 from typing import Dict
 
 from fastmcp import FastMCP
